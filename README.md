@@ -1,3 +1,10 @@
+Hi 👋, I'm Smriti Sadhu.
+A passionate Software Engineer from India
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=smritisadhu&label=Profile%20views&color=0e75b6&style=flat" alt="smritisadhu" /> </p>
+
+- 🌱 I’m currently learning **Artificial Intelligence, Machine Learning etc.**
+
+- 📫 How to reach me **smritisadhu196@gmail.com**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.smriti._19) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/smriti-sadhu-370996229)[![HackerRank](https://img.shields.io/badge/HackerRank-%23G077B5.svg?logo=HackerRank&logoColor=white)](https://linkedin.com/in/@smritisadhu196)
